@@ -1,0 +1,14 @@
+[project]
+name = "comfy-easy-grids"
+description = "A set of custom nodes for creating image grids, sequences, and batches in ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/shockz0rz/comfy-easy-grids"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfy-easy-grids"
+Icon = ""
